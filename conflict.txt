@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 yo yo 
 yo yo yo yo 
+=======
+creates a conflict yaaay
+>>>>>>> realconflict
